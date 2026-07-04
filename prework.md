@@ -30,7 +30,7 @@ Python 3.11.x or higher
 Navigate to the project folder.
 
 ```bash
-cd Project3
+cd Traffic_demand_prediction_system
 ```
 
 Create a virtual environment.
