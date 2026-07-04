@@ -1,0 +1,66 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
+.venv/
+venv/
+env/
+ENV/
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# Operating System files
+
+.DS_Store
+Thumbs.db
+
+# Python environment
+
+.python-version
+
+# Build files
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+
+# Model checkpoints (uncomment if you don't want to upload trained models)
+
+# models/*.pkl
+
+# models/*.json
+
+# models/*.txt
+
+# Streamlit cache
+
+.streamlit/
+
+# Pytest
+
+.pytest_cache/
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Miscellaneous
+
+*.bak
+*.swp
